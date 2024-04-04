@@ -1,4 +1,4 @@
-Amazon Sales dataset explored to get insight from it.<br>
+#Amazon Sales dataset explored to get insight from it.<br>
 This dataset contains sales transactions from three different branches of Amazon, respectively located in Mandalay, Yangon and Naypyitaw. <br>
 
 
